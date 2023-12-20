@@ -1,0 +1,44 @@
+.dark-background{
+    background-color: #0b0b0b;
+}   
+.bulb-image{
+    width: 150px;
+}
+.cat-image{
+    width: 300px;
+}
+.switch-board{
+    background-color: #7b8794;
+    height: 140px;
+    width: 300px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+}
+.switch-status{
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.off-switch{
+    background-color: #e12d39;
+    height: 40px;
+    width: 90px;
+    color: #ffffff;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    border-width: 0px;
+}
+.on-switch{
+    background-color: #cbd2d9;
+    height: 40px;
+    width: 90px;
+    color: #ffffff;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 20px;
+    border-width: 0px;
+}
